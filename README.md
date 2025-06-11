@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is Anton. Second-year student at Polar State University. I am interested in games and music.
 
 <!--
 **Hyron2865/Hyron2865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
