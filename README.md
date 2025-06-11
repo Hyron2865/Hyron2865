@@ -1,4 +1,11 @@
-## Hi, my name is Anton. Second-year student at Polar State University. I am interested in games and music.
+## Привет, я Антон. Студент второго курса Заполярного Государственного Университета им. Н.М. Федоровского.
+Увлекаюсь играми и музыкой.
+
+Работал с:
+• C#
+• C++ <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+
+
 
 <!--
 **Hyron2865/Hyron2865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
