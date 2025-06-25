@@ -1,5 +1,9 @@
 <h1 align="center">Hello, I'm Anton.</h1>
 
+<div id="header" align="center">
+<img src="https://i.pinimg.com/originals/60/2e/aa/602eaaa4ad5e37241a82d04876920eb3.gif"width="400"/>
+</div>
+
 ## 👤 About me
 
 I am a second-year student at the Polar State University.  
