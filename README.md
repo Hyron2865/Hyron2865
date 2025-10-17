@@ -6,7 +6,7 @@
 
 ## 👤 About me
 
-I am a second-year student at the Polar State University.  
+I am a third-year student at the Polar State University.  
 I am fond of games and music.  
 I am a little interested in Linux. <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 
